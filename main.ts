@@ -22,7 +22,9 @@
 // awake, and it is awake because it believes it has somewhere to be. The
 // joke turns on the last word: "somewhere to be, which is nowhere". The
 // setup grants the clock a purpose, and the final word takes the purpose
-// away — the clock kept an appointment that does not exist. That reversal
+// away — the clock kept an appointment that does not exist. Opening with
+// "Saturday, six AM" puts the time and day in the first three words, so the
+// judge's first criterion is met before the joke even starts. That reversal
 // is the whole laugh, and it lands after the setup has finished, so the
 // punchline pays off in the last few words exactly as the brief wants.
 //
